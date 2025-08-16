@@ -1,0 +1,3 @@
+[submodule "vendor/czml"]
+	path = vendor/czml
+	url = https://github.com/paulocoronado/czml.git
